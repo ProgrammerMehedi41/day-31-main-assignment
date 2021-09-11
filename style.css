@@ -1,0 +1,139 @@
+/* default css */
+
+body,h1,h2,h3,h4,h5,h6,p,span,a{
+    font-family: 'Work Sans', sans-serif;;
+}
+
+img{
+    max-width: 100%;
+}
+
+
+/* header */
+
+ .s-menu {
+    margin-left: 395px;
+} 
+
+.s-menu li.nav-item {
+    /* padding: 0px 0px; */
+    font-weight: 500;
+}
+
+.navbar-brand img{
+    width: 110px;
+}
+
+/* banner */
+.banner_text{
+    margin-top: 140px;
+}
+.banner{
+    background-color: #F9F9FF;
+}
+
+/* pricing */
+
+.review span{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.review p{
+    color: white;
+}
+
+.review {
+    background-color: #8490FF;
+    padding: 80px 0;
+}
+
+/* pricing */
+.pricing {
+    background-color: #F9F9FF;
+}
+.pri_text p{
+    font-size: 20px;
+}
+
+.pricing_item {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 2px 2px 20px -10px rgba(0,0,0,.5 );
+}
+
+.pricing_item span {
+    height: 90px;
+    width: 90px;
+    background-color: #F9F9FF;
+    display: inline-block;
+    font-size: 30px;
+    line-height: 92px;
+}
+
+.pricing_item p {
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+/* team */
+
+.card img {
+    width: 100px;
+    margin-top: -77px;
+    margin-left: 15px;
+}
+.card {
+    box-shadow: 1px 4px 10px -2px rgb(0 0 0 / 50%);
+}
+
+.team{
+    margin-top: 90px;
+}
+
+/* contact */
+
+.contact{
+    background-color: #F9F9FF;
+}
+
+.con_text p{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.con_head{
+    font-size: 45px;
+}
+
+.s-form{
+    padding: 20px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+}
+
+.area_t{
+    border: 1px solid #ddd;
+    outline: none;
+}
+
+
+.address{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+.address p{
+    font-size: 20px;
+}
+
+/* footer */
+
+.footer{
+    background-color: #04091E;
+}
+
+.copy p{
+    font-size: 18px;
+    margin-bottom: 0;
+}
